@@ -1,5 +1,5 @@
 
-# JESÚS HUERTA AGUILAR
+# Jesús Huerta Aguilar
 
 > AKA: PLANISPHERE // KEYGLAZZ
 
@@ -9,15 +9,23 @@
 
 ## 🥭 About Me
 
-I'm Jesús Huerta Aguilar, a passionate Computer Science student in my nineth semester at FCC, Benemérita Universidad Autónoma de Puebla. I have a strong enthusiasm for AI, ML, and creative endeavors, blending technology with artistic expression.
+I'm Jesús Huerta Aguilar, a Computer Science graduate from the Faculty of Computer Science (FCC), Benemérita Universidad Autónoma de Puebla (BUAP). My background combines software development, data-oriented thinking, and a strong interest in Artificial Intelligence and Machine Learning, with hands-on experience in both academic and professional environments.
+
+I recently completed a technical internship at Volkswagen Group Services México, where I worked within the Engineering Services area (HR) on digitalization and process standardization initiatives. My work bridged technical development and organizational needs, reinforcing my interest in building systems that scale and create real operational impact.
 
 ## 🧠 Interests 
 
-My primary focus revolves around the captivating realms of Artificial Intelligence and Machine Learning. Continuously driven by a thirst for knowledge, I am committed to both learning and contributing to the evolution of these fields. I find immense excitement in exploring the boundless possibilities that AI and ML present, and I am deeply intrigued by their transformative impact on our society.
+My core interests lie in **Artificial Intelligence, Machine Learning, and Natural Language Processing**, with a long-term goal of specializing further in these areas. I enjoy understanding not only how models work, but how they can be integrated into real-world systems and decision-making processes.
+
+I’m particularly motivated by:
+- Applied ML and data-driven systems  
+- Process automation and digital transformation  
+- The intersection between technology, creativity, and human-centered design 
 
 ## 🎨 Artistic Projects
 
-In addition to my passion for AI and ML, I explore creativity through music production under the alias KEYGLAZZ. This artistic outlet complements my technical mindset, allowing me to merge data-driven approaches with artistic innovation.
+Alongside my technical career, I’m an **illustrator, writer, and music producer**. I lead **KEYGLAZZ**, an experimental virtual band project that blends EDM, Vaporwave, Drum & Bass, House, Eurobeat, and orchestral elements.
+The project explores narrative, visual identity, and sound design as a cohesive universe, with fictional members and subprojects such as **Luxxane Lovelace**, focused on Vaporwave and hypnagogic aesthetics.
 
 Follow my artistic project "[KEYGLAZZ](https://youtube.com/@keyglazz)":   ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6-jfBf6FPcoK86qND5daVQ)
 
@@ -34,14 +42,13 @@ These are my main social media profiles. If you want to know more about me and m
 - [![Linktree](https://img.shields.io/badge/Linktree-%254F1A.svg?logo=Linktree&logoColor=white)](https://linktr.ee/planisphere.kgz)
 
 ## 💻 Tech Stack:
-Currently, I am dedicating time to deepen my knowledge in Python and R. These are the technologies with which I have extensively experimented.
+Currently, I am dedicating time to deepen my knowledge in Artificial Inteligence. These are the technologies with which I have extensively experimented.
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 
 ### Libraries
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
